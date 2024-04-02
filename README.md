@@ -61,13 +61,7 @@ module HALF_ADDSUB(a,b,sum,carry,D,Bo);
 
 input a,b;
 
-output sum,carry,D,Bo; // Outputs sum and carry for half adder:Outputs difference D,Borrow Bo for half subtractor
-
-//TYPE HERE THE COMMAND FOR SUM GENERATION IN GATE LEVEL MODELLING
-
-//TYPE HERE THE COMMAND FOR CARRY GENERATION IN GATE LEVEL MODELLING
-
-//Type logic for half subtractor difference D,Borrow Bo using gate level modelling
+output sum,carry,D,Bo; 
 
 wire abar;
 
@@ -85,10 +79,12 @@ endmodule
 ~~~
 
 **RTL Schematic**
+
 ![image](https://github.com/VaradaramSK/HALF_ADDER_SUBTRACTOR/assets/144356171/ac8a5eeb-aa41-42ae-a333-1ba7ac8d73bb)
 
 
 **Output/TIMING Waveform**
 
 **Result:**
+
 The code is excecuted successfully.
