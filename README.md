@@ -55,6 +55,7 @@ Figure -02 HALF Subtractor
 Developed by:Varadaram SK
 
 RegisterNumber:212223040232 */
+~~~
 
 module HALF_ADDSUB(a,b,sum,carry,D,Bo);
 
@@ -81,6 +82,7 @@ not(abar,a);
 and(Bo,abar,b);
 
 endmodule
+~~~
 
 **RTL Schematic**
 
