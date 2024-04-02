@@ -85,7 +85,10 @@ endmodule
 ~~~
 
 **RTL Schematic**
+![image](https://github.com/VaradaramSK/HALF_ADDER_SUBTRACTOR/assets/144356171/ac8a5eeb-aa41-42ae-a333-1ba7ac8d73bb)
+
 
 **Output/TIMING Waveform**
 
 **Result:**
+The code is excecuted successfully.
