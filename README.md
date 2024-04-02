@@ -88,6 +88,8 @@ endmodule
 
 **Output/TIMING Waveform**
 
+![image](https://github.com/VaradaramSK/HALF_ADDER_SUBTRACTOR/assets/144356171/c55413df-c307-45a9-b730-82e704fd9925)
+
 **Result:**
 
 The code is excecuted successfully.
