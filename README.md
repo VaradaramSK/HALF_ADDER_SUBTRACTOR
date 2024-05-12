@@ -88,7 +88,8 @@ endmodule
 
 **Output/TIMING Waveform**
 
-![image](https://github.com/VaradaramSK/HALF_ADDER_SUBTRACTOR/assets/144356171/c55413df-c307-45a9-b730-82e704fd9925)
+![316377870-302c38a4-4e14-4222-84b3-50b71ce4b9f9](https://github.com/RamkumarGunasekaran/HALF_ADDER_SUBTRACTOR/assets/144870820/cce75815-6586-4509-bc24-c13cbf4f4f53)
+
 
 **Result:**
 
